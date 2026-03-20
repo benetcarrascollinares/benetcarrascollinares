@@ -21,7 +21,7 @@ I'm **Benet Carrasco**, a Frontend Developer at **Naturitas** with 10+ years of 
 
 ### 🤝 Let's Connect
 - 💬 Ask me about frontend architecture, React, or performance
-📫 Reach me on [GitHub](https://github.com/benetcarrascollinares) · [LinkedIn](https://es.linkedin.com/in/benetcarrasco)
+- 📫 Reach me on [GitHub](https://github.com/benetcarrascollinares) · [LinkedIn](https://es.linkedin.com/in/benetcarrasco)
 
 ---
 
